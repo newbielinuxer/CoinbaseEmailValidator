@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/env python
 # Made with Love By Namdevel
 # https://www.github.com/namdevel
 
